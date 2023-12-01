@@ -51,7 +51,7 @@
 
 Download [Last release here.](../../releases/latest)
 
-![#c5f015] Άμεση λήψη [SOSbuttonGR για Android.](https://raw.githubusercontent.com/DeadManWalkingTO/SOSbuttonGR/main/SOSbuttonGR.apk) `#c5f015`
+### Άμεση λήψη [SOSbuttonGR για Android.](https://raw.githubusercontent.com/DeadManWalkingTO/SOSbuttonGR/main/SOSbuttonGR.apk)
 
 ## Ανατροφοδότηση / Feedback
 
