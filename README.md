@@ -23,7 +23,7 @@
 
 ## Περιεχόμενα / Table of Contents
 
-- [Features](#χαρακτηριστικά-/-features)
+- [Features](#χαρακτηριστικά--features)
 - [Download](#download)
 - [Feedback](#feedback)
 - [Maintainers](#maintainers)
