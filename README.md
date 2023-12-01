@@ -23,13 +23,13 @@
 
 ## Περιεχόμενα / Table of Contents
 
-- [Features](#χαρακτηριστικά--features)
-- [Download](#download)
-- [Feedback](#feedback)
-- [Maintainers](#maintainers)
-- [Contribute](#contribute)
-- [License](#license)
-- [Donations](#donations)
+- [Χαρακτηριστικά / Features](#χαρακτηριστικά--features)
+- [Λήψη / Download](#λήψη--download)
+- [Ανατροφοδότηση / Feedback](#ανατροφοδότηση--feedback)
+- [Συντηρητές / Maintainers](#συντηρητές--maintainers)
+- [Συνεισφορά / Contribute](#συνεισφορά--contribute)
+- [Άδεια / License](#άδεια--license)
+- [Δωρεές / Donations](#δωρεές--donations)
 
 ## Χαρακτηριστικά / Features
 
@@ -47,29 +47,29 @@
 * On line ενημέρωση στοιχείων
 * On line Αυτόματη Αναβάθμιση
 
-## Download
+## Λήψη / Download
 
 Download [Last release here.](../../releases/latest)
 
-## Feedback
+## Ανατροφοδότηση / Feedback
 
 Please inform me for additional improvements; [open an issue](../../issues).
 
 If you like please give a [GitHub Star](../../stargazers) (it's free!).
 
-## Maintainers
+## Συντηρητές / Maintainers
 
 [DeadManWalking (DeadManWalkingTO-GitHub)](https://github.com/DeadManWalkingTO).
 
-## Contribute
+## Συνεισφορά / Contribute
 
 Feel free to open an [Issue](../../issues/new) or submit [Pull Requests](../../pulls).
 
-## License
+## Άδεια / License
 
 [MIT © DeadManWalking (DeadManWalkingTO-GitHub)](./LICENSE).
 
-## Donations
+## Δωρεές / Donations
 
 If you find this useful please donate something at the following:
 
