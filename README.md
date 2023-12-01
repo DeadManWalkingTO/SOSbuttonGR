@@ -17,7 +17,7 @@
 [![GitHub license](https://img.shields.io/github/license/DeadManWalkingTO/SOSbuttonGR.svg)](./LICENSE)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](./README.md)
 
-> SOS Button | Κουμπί πανικού (ειδοποίηση με γραπτό μήνυμα) by [DeadManWalking (DeadManWalkingTO-GitHub)](https://github.com/DeadManWalkingTO)
+> SOS Button | Κουμπί πανικού (ειδοποίηση με γραπτό μήνυμα)
 
 Η εφαρμογή αυτή δημιουργήθηκε με σκοπό την εύκολη και άμεση αποστολή ειδοποίησης (με γραπτό μήνυμα) σε περίπτωση άμεσου κινδύνου. Το μήνυμα αποστέλλεται σε αριθμό της επιλογής του χρήστη.
 
