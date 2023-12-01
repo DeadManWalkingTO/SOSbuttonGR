@@ -53,9 +53,9 @@ Download [Last release here.](../../releases/latest)
 
 ## Ανατροφοδότηση / Feedback
 
-Please inform me for additional improvements; [open an issue](../../issues).
+Παρακαλώ ενημερώστε με για πρόσθετες βελτιώσεις, [open an issue](../../issues).
 
-If you like please give a [GitHub Star](../../stargazers) (it's free!).
+Αν θέλετε, παρακαλώ δώστε ένα [GitHub Star](../../stargazers) (Είναι δωρεάν!).
 
 ## Συντηρητές / Maintainers
 
@@ -63,7 +63,7 @@ If you like please give a [GitHub Star](../../stargazers) (it's free!).
 
 ## Συνεισφορά / Contribute
 
-Feel free to open an [Issue](../../issues/new) or submit [Pull Requests](../../pulls).
+Μη διστάσετε να ανοίξετε ένα [Issue](../../issues/new) ή να υποβάλλετε [Pull Requests](../../pulls).
 
 ## Άδεια / License
 
