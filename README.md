@@ -23,7 +23,7 @@
 
 ## Περιεχόμενα / Table of Contents
 
-- [Features](#features)
+- [Features](#χαρακτηριστικά-/-features)
 - [Download](#download)
 - [Feedback](#feedback)
 - [Maintainers](#maintainers)
@@ -31,7 +31,7 @@
 - [License](#license)
 - [Donations](#donations)
 
-## Features
+## Χαρακτηριστικά / Features
 
 Κουμπί πανικού (ειδοποίηση με γραπτό μήνυμα).
 
