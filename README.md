@@ -53,7 +53,7 @@ Download [Last release here.](../../releases/latest)
 
 Άμεση λήψη [SOSbuttonGR για Android.](https://raw.githubusercontent.com/DeadManWalkingTO/SOSbuttonGR/main/SOSbuttonGR.apk)
 
-Άμεση λήψη [SOSbuttonGR για Android.](../../SOSbuttonGR.apk)
+Άμεση λήψη [SOSbuttonGR για Android.](../SOSbuttonGR.apk)
 
 ## Ανατροφοδότηση / Feedback
 
