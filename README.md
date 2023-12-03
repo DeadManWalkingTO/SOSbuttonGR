@@ -73,7 +73,13 @@ Download [Last release here.](../../releases/latest)
 
 ## Δωρεές / Donations
 
-If you find this useful please donate something at the following:
+Αν σας φανεί χρήσιμο μπορείτε να δωρίστε κάτι στα παρακάτω:
+
+Bitcoin Address (BTC):
+* bc1qcsh3zxlrmfmeyz38j7uzk8z2g2qtuctdtttttp
+
+Ethereum Address (ETH):
+* 0x5c9D5F4fC058726c2Fe76463FB21DDdfCff0bc44
 
 Monero Address (XMR):
 * 42q4HmXdsp1XgNCrDmPubL8ndtgG2JBtmZMEn28sB4XtEGHhwYojvB65HXPidByfNUFSzxg6ysQsHUHa3ZSrsKLX5pTkCET
