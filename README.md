@@ -48,7 +48,7 @@
 
 ## Λήψη / Download
 
-### <ins>Άμεση λήψη</ins> [SOSbuttonGR για Android.](https://raw.githubusercontent.com/DeadManWalkingTO/SOSbuttonGR/main/SOSbuttonGR.apk)
+### <ins>Άμεση λήψη [SOSbuttonGR για Android.](https://raw.githubusercontent.com/DeadManWalkingTO/SOSbuttonGR/main/SOSbuttonGR.apk)</ins>
 
 Download [Last release here.](../../releases/latest)
 
