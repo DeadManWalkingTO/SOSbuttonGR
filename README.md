@@ -25,7 +25,7 @@
 
 - [Χαρακτηριστικά / Features](#χαρακτηριστικά--features)
 - [Λήψη / Download](#λήψη--download)
-- [Λειτουργία της εφαρμγής / Operation of the application](#λειτουργίατηςεφαρμγής--operation-of-the-application)
+- [Λειτουργία της εφαρμγής / Operation of the application](#λειτουργία-της-εφαρμγής--operation-of-the-application)
 - [Ανατροφοδότηση / Feedback](#ανατροφοδότηση--feedback)
 - [Συντηρητές / Maintainers](#συντηρητές--maintainers)
 - [Συνεισφορά / Contribute](#συνεισφορά--contribute)
