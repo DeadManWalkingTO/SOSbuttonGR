@@ -25,6 +25,7 @@
 
 - [Χαρακτηριστικά / Features](#χαρακτηριστικά--features)
 - [Λήψη / Download](#λήψη--download)
+- 
 - [Ανατροφοδότηση / Feedback](#ανατροφοδότηση--feedback)
 - [Συντηρητές / Maintainers](#συντηρητές--maintainers)
 - [Συνεισφορά / Contribute](#συνεισφορά--contribute)
@@ -55,6 +56,9 @@
 Λήψη από [Github](https://raw.githubusercontent.com/DeadManWalkingTO/SOSbuttonGR/main/SOSbuttonGR.apk)
 
 Λήψη από [Microsoft One Drive](https://1drv.ms/u/s!Apwu9u23K7zCgaATnHDFxwqFVdDK_g?e=zovNho)
+
+## Λειτουργία της εφαρμγής / Operation of the application
+
 
 ## Ανατροφοδότηση / Feedback
 
