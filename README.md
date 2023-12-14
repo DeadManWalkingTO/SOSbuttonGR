@@ -25,7 +25,7 @@
 
 - [Χαρακτηριστικά / Features](#χαρακτηριστικά--features)
 - [Λήψη / Download](#λήψη--download)
-- 
+- [Λειτουργία της εφαρμγής / Operation of the application](#λειτουργίατηςεφαρμγής--operation-of-the-application)
 - [Ανατροφοδότηση / Feedback](#ανατροφοδότηση--feedback)
 - [Συντηρητές / Maintainers](#συντηρητές--maintainers)
 - [Συνεισφορά / Contribute](#συνεισφορά--contribute)
@@ -59,6 +59,7 @@
 
 ## Λειτουργία της εφαρμγής / Operation of the application
 
+Παρακολουθήστε το [βίντεο](https://www.youtube.com/watch?v=WVIlygtfWmk)
 
 ## Ανατροφοδότηση / Feedback
 
